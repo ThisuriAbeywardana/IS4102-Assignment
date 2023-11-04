@@ -1,0 +1,866 @@
+2021-09-08 04:10:59,404  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 04:11:00,225  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 04:11:19,570  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 04:11:20,334  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:06,057  INFO [main] LoginPage:77 - User name enterd as admin
+2021-09-08 08:53:06,958  INFO [main] HomePage:45 - Validated Logo
+2021-09-08 08:53:24,330  INFO [main] LoginPage:77 - User name enterd as trainee
+2021-09-08 08:53:25,237  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:22:47,345  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:28:26,216  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:29:22,466 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,469 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:29:22,766 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:29:22,768 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:40:12,916  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:40:13,214  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:40:30,253  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:40:30,530  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:41:56,677  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:41:56,922  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:42:13,645  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:42:13,868  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:31,363  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 10:45:31,569  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:45:45,805  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 10:45:45,980  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:50:18,999 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,001 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,003 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,005 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,006 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:50:19,185 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 10:50:19,186 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 10:50:19,187 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 10:53:32,658  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 10:59:19,574  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:01:51,106  INFO [main] LoginPage:77 - User name enterd as admin
+2023-05-31 11:01:51,384  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:02:11,222  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-05-31 11:02:11,492  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:04:28,851  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:06:02,039  INFO [main] HomePage:45 - Validated Logo
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,106 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-05-31 11:07:02,504 DEBUG [main] cache:45 - Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2023-05-31 11:07:02,513 DEBUG [main] cache:45 - Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/s.kadigamugedara_exa/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2023-11-02 23:50:23,516  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:27:17,268  INFO [main] LoginPage:77 - User name enterd as admin
+2023-11-03 20:27:17,342  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:27:50,832  INFO [main] LoginPage:77 - User name enterd as trainee
+2023-11-03 20:27:50,903  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 20:28:48,932  INFO [main] LoginPage:77 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-03 20:28:49,004  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 22:14:22,537  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:14:22,612  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:18:28,914  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:18:28,982  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:19:14,034  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:19:14,099  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:32:03,894  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:32:03,953  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:47:22,618  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:47:22,693  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:47:22,723  INFO [main] UsersPage:83 - Fist name displayed:false
+2023-11-03 22:47:22,733  INFO [main] UsersPage:84 - Fist name displayed:false
+2023-11-03 22:52:29,263  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:52:29,344  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:52:29,388  INFO [main] UsersPage:83 - Fist name displayed:false
+2023-11-03 22:52:29,403  INFO [main] UsersPage:84 - Fist name displayed:false
+2023-11-03 22:59:25,029  INFO [main] UsersPage:74 - Click add user page button in menu
+2023-11-03 22:59:25,099  INFO [main] UsersPage:79 - Click add user button
+2023-11-03 22:59:25,133  INFO [main] UsersPage:83 - Fist name displayed:false
+2023-11-03 22:59:25,146  INFO [main] UsersPage:84 - Fist name displayed:false
+2023-11-03 23:16:31,770  INFO [main] LoginPage:77 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-03 23:16:31,842  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 23:17:26,494  INFO [main] UsersPage:76 - Click add user page button in menu
+2023-11-03 23:17:26,566  INFO [main] UsersPage:81 - Click add user button
+2023-11-03 23:17:26,607  INFO [main] UsersPage:86 - Fist name displayed:false
+2023-11-03 23:17:26,618  INFO [main] UsersPage:87 - Fist name displayed:false
+2023-11-03 23:18:34,662  INFO [main] UsersPage:76 - Click add user page button in menu
+2023-11-03 23:18:34,731  INFO [main] UsersPage:81 - Click add user button
+2023-11-03 23:18:34,765  INFO [main] UsersPage:86 - Fist name displayed:false
+2023-11-03 23:18:34,775  INFO [main] UsersPage:87 - Fist name displayed:false
+2023-11-03 23:30:13,107  INFO [main] UsersPage:76 - Click add user page button in menu
+2023-11-03 23:30:13,168  INFO [main] UsersPage:81 - Click add user button
+2023-11-03 23:30:13,169  INFO [main] UsersPage:85 - driver waiting
+2023-11-03 23:30:13,222  INFO [main] UsersPage:87 - Fist name displayed:true
+2023-11-03 23:30:13,235  INFO [main] UsersPage:88 - Fist name displayed:false
+2023-11-03 23:31:28,677  INFO [main] UsersPage:76 - Click add user page button in menu
+2023-11-03 23:31:28,750  INFO [main] UsersPage:81 - Click add user button
+2023-11-03 23:31:28,751  INFO [main] UsersPage:85 - driver waiting
+2023-11-03 23:32:21,504  INFO [main] UsersPage:87 - Fist name displayed:true
+2023-11-03 23:32:32,467  INFO [main] UsersPage:88 - Fist name displayed:true
+2023-11-03 23:33:01,537  INFO [main] UsersPage:91 - First Name enter asAnne
+2023-11-03 23:33:01,561  INFO [main] UsersPage:96 - First Name enter asCullen
+2023-11-03 23:33:01,585  INFO [main] UsersPage:101 - First Name enter asannecullen@gmail.com
+2023-11-03 23:33:01,661  INFO [main] UsersPage:107 - Selected Production as the department
+2023-11-03 23:33:57,218  INFO [main] UsersPage:76 - Click add user page button in menu
+2023-11-03 23:42:59,619  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:42:59,697  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:42:59,698  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:45:56,653  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:45:56,725  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:45:56,726  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:45:57,875  INFO [main] UsersPage:91 - Fist name displayed:true
+2023-11-03 23:45:57,886  INFO [main] UsersPage:92 - Fist name displayed:true
+2023-11-03 23:45:57,935  INFO [main] UsersPage:95 - First Name enter asAnne
+2023-11-03 23:45:57,957  INFO [main] UsersPage:100 - First Name enter asCullen
+2023-11-03 23:45:57,999  INFO [main] UsersPage:105 - First Name enter asannecullen@gmail.com
+2023-11-03 23:45:58,079  INFO [main] UsersPage:111 - Selected Production as the department
+2023-11-03 23:46:58,643  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:46:58,713  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:46:58,714  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:47:44,484  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:47:44,552  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:47:44,553  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:47:45,638  INFO [main] UsersPage:91 - Fist name displayed:true
+2023-11-03 23:47:45,649  INFO [main] UsersPage:92 - Fist name displayed:true
+2023-11-03 23:47:45,695  INFO [main] UsersPage:95 - First Name enter asAnne
+2023-11-03 23:47:45,718  INFO [main] UsersPage:100 - First Name enter asCullen
+2023-11-03 23:47:45,747  INFO [main] UsersPage:105 - First Name enter asannecullen@gmail.com
+2023-11-03 23:47:45,844  INFO [main] UsersPage:111 - Selected Production as the department
+2023-11-03 23:48:54,738  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:48:54,809  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:48:54,809  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:48:55,866  INFO [main] UsersPage:91 - Fist name displayed:true
+2023-11-03 23:48:55,879  INFO [main] UsersPage:92 - Fist name displayed:true
+2023-11-03 23:48:55,928  INFO [main] UsersPage:95 - First Name enter asAnne
+2023-11-03 23:48:55,962  INFO [main] UsersPage:100 - First Name enter asCullen
+2023-11-03 23:48:55,999  INFO [main] UsersPage:105 - First Name enter asannecullen@gmail.com
+2023-11-03 23:48:56,069  INFO [main] UsersPage:111 - Selected Production as the department
+2023-11-03 23:49:26,976  INFO [main] LoginPage:77 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-03 23:49:27,067  INFO [main] HomePage:45 - Validated Logo
+2023-11-03 23:53:44,501  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:53:44,573  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:53:44,574  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:53:45,745  INFO [main] UsersPage:92 - First Name enter asAnne
+2023-11-03 23:53:45,780  INFO [main] UsersPage:97 - First Name enter asCullen
+2023-11-03 23:53:45,818  INFO [main] UsersPage:102 - First Name enter asannecullen@gmail.com
+2023-11-03 23:53:45,894  INFO [main] UsersPage:108 - Selected Production as the department
+2023-11-03 23:54:20,031  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:54:20,102  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:54:20,103  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:54:39,770  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:54:39,834  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:54:39,835  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:54:40,885  INFO [main] UsersPage:92 - First Name enter asBrian
+2023-11-03 23:54:40,921  INFO [main] UsersPage:97 - First Name enter asStuart
+2023-11-03 23:54:40,959  INFO [main] UsersPage:102 - First Name enter asbrianstuart@gmail.com
+2023-11-03 23:54:41,039  INFO [main] UsersPage:108 - Selected Production as the department
+2023-11-03 23:55:25,807  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:55:25,879  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:55:25,879  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:56:14,987  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:56:15,061  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:56:15,062  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:56:16,098  INFO [main] UsersPage:91 - Fist name displayed:true
+2023-11-03 23:56:16,109  INFO [main] UsersPage:92 - Fist name displayed:true
+2023-11-03 23:56:16,159  INFO [main] UsersPage:95 - First Name enter asAnne
+2023-11-03 23:56:16,192  INFO [main] UsersPage:100 - First Name enter asCullen
+2023-11-03 23:56:16,234  INFO [main] UsersPage:105 - First Name enter asannecullen@gmail.com
+2023-11-03 23:56:16,303  INFO [main] UsersPage:111 - Selected Production as the department
+2023-11-03 23:57:26,651  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:57:26,720  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:57:26,721  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:57:27,841  INFO [main] UsersPage:91 - Fist name displayed:true
+2023-11-03 23:57:27,852  INFO [main] UsersPage:92 - Fist name displayed:true
+2023-11-03 23:57:27,899  INFO [main] UsersPage:95 - First Name enter asAnne
+2023-11-03 23:57:27,933  INFO [main] UsersPage:100 - First Name enter asCullen
+2023-11-03 23:57:27,970  INFO [main] UsersPage:105 - First Name enter asannecullen@gmail.com
+2023-11-03 23:57:28,042  INFO [main] UsersPage:111 - Selected Production as the department
+2023-11-03 23:58:14,636  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:58:14,705  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:58:14,706  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:58:56,465  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:58:56,535  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:58:56,535  INFO [main] UsersPage:88 - driver waiting
+2023-11-03 23:58:57,613  INFO [main] UsersPage:93 - First Name enter asAnne
+2023-11-03 23:58:57,645  INFO [main] UsersPage:98 - First Name enter asCullen
+2023-11-03 23:58:57,684  INFO [main] UsersPage:103 - First Name enter asannecullen@gmail.com
+2023-11-03 23:58:57,759  INFO [main] UsersPage:109 - Selected Production as the department
+2023-11-03 23:59:32,397  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-03 23:59:32,467  INFO [main] UsersPage:84 - Click add user button
+2023-11-03 23:59:32,468  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:00:16,742  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:00:16,816  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:00:16,817  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:00:55,082  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:00:55,147  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:00:55,147  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:00:56,322  INFO [main] UsersPage:93 - First Name enter asAnne
+2023-11-04 00:00:56,356  INFO [main] UsersPage:98 - First Name enter asCullen
+2023-11-04 00:00:56,395  INFO [main] UsersPage:103 - First Name enter asannecullen@gmail.com
+2023-11-04 00:00:56,471  INFO [main] UsersPage:109 - Selected Production as the department
+2023-11-04 00:01:31,112  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:01:31,184  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:01:31,185  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:01:32,265  INFO [main] UsersPage:93 - First Name enter asAnne
+2023-11-04 00:01:32,299  INFO [main] UsersPage:98 - First Name enter asCullen
+2023-11-04 00:01:32,337  INFO [main] UsersPage:103 - First Name enter asannecullen@gmail.com
+2023-11-04 00:01:32,409  INFO [main] UsersPage:109 - Selected Production as the department
+2023-11-04 00:02:00,606  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:02:00,676  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:02:00,677  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:02:21,188  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:02:21,254  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:02:21,255  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:02:22,369  INFO [main] UsersPage:93 - First Name enter asBrian
+2023-11-04 00:02:22,406  INFO [main] UsersPage:98 - First Name enter asStuart
+2023-11-04 00:02:22,442  INFO [main] UsersPage:103 - First Name enter asbrianstuart@gmail.com
+2023-11-04 00:02:22,513  INFO [main] UsersPage:109 - Selected Production as the department
+2023-11-04 00:04:16,283  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:04:16,354  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:04:16,354  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:04:56,317  INFO [main] UsersPage:79 - Click add user page button in menu
+2023-11-04 00:04:56,387  INFO [main] UsersPage:84 - Click add user button
+2023-11-04 00:04:56,388  INFO [main] UsersPage:88 - driver waiting
+2023-11-04 00:06:08,976  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:06:18,573  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:06:18,588  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:06:18,645  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:06:18,647  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:06:19,725  INFO [main] UsersPage:97 - First Name enter asAnne
+2023-11-04 00:06:19,759  INFO [main] UsersPage:102 - First Name enter asCullen
+2023-11-04 00:06:19,807  INFO [main] UsersPage:107 - First Name enter asannecullen@gmail.com
+2023-11-04 00:06:19,874  INFO [main] UsersPage:113 - Selected Production as the department
+2023-11-04 00:06:45,636  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:06:54,699  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:06:54,711  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:06:54,771  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:06:54,772  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:06:55,858  INFO [main] UsersPage:97 - First Name enter asAnne
+2023-11-04 00:06:55,892  INFO [main] UsersPage:102 - First Name enter asCullen
+2023-11-04 00:06:55,937  INFO [main] UsersPage:107 - First Name enter asannecullen@gmail.com
+2023-11-04 00:06:56,008  INFO [main] UsersPage:113 - Selected Production as the department
+2023-11-04 00:08:30,551  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:08:39,958  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:08:39,970  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:08:40,030  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:08:40,031  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:08:41,087  INFO [main] UsersPage:97 - First Name enter asAnne
+2023-11-04 00:08:41,087  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:08:41,121  INFO [main] UsersPage:104 - First Name enter asCullen
+2023-11-04 00:08:41,122  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:08:41,164  INFO [main] UsersPage:111 - First Name enter asannecullen@gmail.com
+2023-11-04 00:08:41,165  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:08:41,235  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:10:00,157  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:10:09,212  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:10:09,223  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:10:09,283  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:10:09,284  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:11:41,331  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:11:51,771  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:11:51,792  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:11:51,851  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:11:51,852  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:11:52,877  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:11:52,878  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:11:52,915  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:11:52,917  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:11:52,973  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:11:52,975  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:11:53,054  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:16:03,296  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:16:13,313  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:16:13,330  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:16:13,389  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:16:13,390  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:17:50,358  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:17:59,151  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:17:59,165  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:17:59,217  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:17:59,218  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:18:00,348  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:18:00,349  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:18:00,381  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:18:00,381  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:18:00,424  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:18:00,424  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:18:00,493  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:18:18,555  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:18:28,258  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:18:28,269  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:18:28,330  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:18:28,330  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:20:07,780  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:20:15,974  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:20:15,988  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:20:16,047  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:20:16,048  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:20:17,068  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:20:17,068  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:20:17,101  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:20:17,102  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:20:17,144  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:20:17,145  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:20:17,212  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:20:51,613  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:21:00,846  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:21:00,864  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:21:00,914  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:21:00,915  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:21:02,005  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:21:02,006  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:21:02,041  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:21:02,042  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:21:02,081  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:21:02,097  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:21:02,165  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:22:30,719  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:22:48,122  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:22:48,136  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:22:48,195  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:22:48,196  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:22:49,239  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:22:49,239  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:22:49,274  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:22:49,275  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:22:49,320  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:22:49,320  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:22:49,390  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:24:12,616  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:24:20,701  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:24:20,717  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:24:20,774  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:24:20,775  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:24:21,866  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:24:21,866  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:24:21,902  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:24:21,903  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:24:21,957  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:24:21,958  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:24:22,028  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:26:01,952  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:26:13,076  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:26:13,092  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:26:13,150  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:26:13,151  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:27:06,230  INFO [main] LoginPage:78 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-04 00:27:06,365  INFO [main] HomePage:45 - Validated Logo
+2023-11-04 00:27:18,963  INFO [main] LoginPage:78 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-04 00:27:19,042  INFO [main] HomePage:45 - Validated Logo
+2023-11-04 00:27:54,703  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:28:04,637  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:28:04,652  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:28:04,711  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:28:04,712  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:28:05,741  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:28:05,742  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:28:05,776  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:28:05,776  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:28:05,818  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:28:05,818  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:28:05,889  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:29:39,947  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:29:49,506  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:29:49,519  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:29:49,579  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:29:49,580  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:31:21,935  INFO [main] UsersPage:79 - driver waiting
+2023-11-04 00:31:30,907  INFO [main] UsersPage:82 - Click add user page button in menu
+2023-11-04 00:31:30,928  INFO [main] UsersPage:86 - driver waiting
+2023-11-04 00:31:30,986  INFO [main] UsersPage:89 - Click add user button
+2023-11-04 00:31:30,987  INFO [main] UsersPage:93 - driver waiting
+2023-11-04 00:31:32,045  INFO [main] UsersPage:98 - First Name enter as Anne
+2023-11-04 00:31:32,046  INFO [main] UsersPage:102 - driver waiting
+2023-11-04 00:31:32,082  INFO [main] UsersPage:105 - Last Name enter as Cullen
+2023-11-04 00:31:32,082  INFO [main] UsersPage:109 - driver waiting
+2023-11-04 00:31:32,136  INFO [main] UsersPage:112 - Email enter as annecullen@gmail.com
+2023-11-04 00:31:32,138  INFO [main] UsersPage:116 - driver waiting
+2023-11-04 00:31:32,215  INFO [main] UsersPage:120 - Selected Production as the department
+2023-11-04 00:34:40,705  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:34:51,791  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:34:51,808  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:34:51,872  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:34:51,874  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:34:52,981  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:34:52,981  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:34:53,021  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:34:53,022  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:34:53,084  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:34:53,085  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:34:53,159  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:35:48,707  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:35:57,797  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:35:57,811  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:35:57,868  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:35:57,868  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:36:21,072  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:36:31,004  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:36:31,013  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:36:31,060  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:36:31,061  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:36:32,218  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:36:32,218  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:36:32,258  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:36:32,258  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:36:32,309  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:36:32,310  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:36:32,390  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:41:11,751  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:41:21,267  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:41:21,277  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:41:21,324  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:41:21,325  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:41:22,309  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:41:22,310  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:41:22,347  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:41:22,347  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:41:22,395  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:41:22,396  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:41:22,472  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:45:57,346  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:47:07,771  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:47:16,916  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:47:16,935  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:47:16,993  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:47:16,998  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:47:44,986  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 00:47:54,603  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 00:47:54,617  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 00:47:54,680  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 00:47:54,682  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 00:47:55,779  INFO [main] UsersPage:97 - First Name enter as Anne
+2023-11-04 00:47:55,780  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 00:47:55,813  INFO [main] UsersPage:104 - Last Name enter as Cullen
+2023-11-04 00:47:55,813  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 00:47:55,858  INFO [main] UsersPage:111 - Email enter as annecullen@gmail.com
+2023-11-04 00:47:55,859  INFO [main] UsersPage:115 - driver waiting
+2023-11-04 00:47:55,928  INFO [main] UsersPage:119 - Selected Production as the department
+2023-11-04 00:51:43,013  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:51:52,908  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:51:52,919  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:51:52,981  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:51:52,982  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:51:54,035  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:51:54,036  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:51:54,077  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:51:54,079  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:51:54,122  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:51:54,123  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:51:54,193  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:52:11,717  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:52:19,919  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:52:19,931  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:52:19,990  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:52:19,991  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:52:21,085  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:52:21,088  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:52:21,124  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:52:21,125  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:52:21,163  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:52:21,164  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:52:21,239  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:52:38,212  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:52:48,815  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:52:48,827  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:52:48,887  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:52:48,891  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:52:49,978  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:52:49,978  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:52:50,013  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:52:50,013  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:52:50,054  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:52:50,054  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:52:50,127  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:53:10,842  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:53:20,226  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:53:20,239  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:53:20,298  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:53:20,300  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:53:21,415  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:53:21,415  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:53:21,450  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:53:21,450  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:53:21,490  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:53:21,490  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:53:21,560  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:53:40,064  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:53:50,658  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:53:50,670  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:53:50,731  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:53:50,732  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:53:51,828  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:53:51,828  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:53:51,863  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:53:51,864  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:53:51,903  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:53:51,904  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:53:51,975  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:54:06,945  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:54:16,024  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:54:16,036  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:54:16,094  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:54:16,095  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:54:17,152  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:54:17,152  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:54:17,188  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:54:17,188  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:54:17,228  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:54:17,228  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:54:17,300  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:54:43,004  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:54:52,629  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:54:52,641  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:54:52,700  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:54:52,700  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:54:53,818  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:54:53,819  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:54:53,855  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:54:53,855  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:54:53,897  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:54:53,898  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:54:53,971  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:55:02,256  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:55:10,341  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:55:10,342  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:55:10,406  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:55:10,407  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:55:11,469  INFO [main] UsersPage:101 - First Name enter as Brian
+2023-11-04 00:55:11,470  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:55:11,506  INFO [main] UsersPage:108 - Last Name enter as Stuart
+2023-11-04 00:55:11,507  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:55:11,547  INFO [main] UsersPage:115 - Email enter as brianstuart@gmail.com
+2023-11-04 00:55:11,547  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:55:11,616  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:55:27,230  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:55:37,757  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:55:37,769  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:55:37,829  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:55:37,831  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:55:48,529  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:55:57,681  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:55:57,682  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:55:57,740  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:55:57,741  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:55:58,789  INFO [main] UsersPage:101 - First Name enter as Brian
+2023-11-04 00:55:58,790  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:55:58,824  INFO [main] UsersPage:108 - Last Name enter as Stuart
+2023-11-04 00:55:58,826  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:55:58,872  INFO [main] UsersPage:115 - Email enter as brianstuart@gmail.com
+2023-11-04 00:55:58,873  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:55:58,942  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:56:39,556  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:56:49,888  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:56:49,900  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:56:49,960  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:56:49,962  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:56:59,862  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:57:31,731  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:57:39,341  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:57:39,353  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:57:39,413  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:57:39,414  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:57:49,407  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:57:57,693  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:57:57,695  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:57:57,772  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:57:57,773  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:57:58,946  INFO [main] UsersPage:101 - First Name enter as Brian
+2023-11-04 00:57:58,946  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:57:58,983  INFO [main] UsersPage:108 - Last Name enter as Stuart
+2023-11-04 00:57:58,984  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:57:59,025  INFO [main] UsersPage:115 - Email enter as brianstuart@gmail.com
+2023-11-04 00:57:59,025  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:57:59,097  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:58:17,571  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:58:26,567  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:58:26,579  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:58:26,639  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:58:26,640  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:58:27,751  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:58:27,752  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:58:27,788  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:58:27,788  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:58:27,830  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:58:27,831  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:58:27,903  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 00:59:27,345  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 00:59:36,739  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 00:59:36,751  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 00:59:36,810  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 00:59:36,811  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 00:59:37,936  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 00:59:37,937  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 00:59:37,971  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 00:59:37,972  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 00:59:38,013  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 00:59:38,013  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 00:59:38,084  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:00:04,828  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:00:16,696  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:00:16,706  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:00:16,766  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:00:16,767  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:00:41,715  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:00:53,251  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:00:53,261  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:00:53,323  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:00:53,324  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:01:27,144  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:01:39,067  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:01:39,075  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:01:39,123  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:01:39,124  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:03:04,093  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:03:14,457  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:03:14,468  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:03:14,529  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:03:14,530  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:03:15,591  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:03:15,592  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:03:15,629  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:03:15,629  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:03:15,671  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:03:15,671  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:03:15,742  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:03:40,341  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:03:51,125  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:03:51,136  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:03:51,197  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:03:51,198  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:03:52,244  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:03:52,247  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:03:52,282  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:03:52,285  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:03:52,326  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:03:52,327  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:03:52,398  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:04:46,573  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:04:55,539  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:04:55,550  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:04:55,610  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:04:55,610  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:05:21,543  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:05:31,725  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:05:31,735  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:05:31,795  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:05:31,795  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:05:32,905  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:05:32,905  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:05:32,940  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:05:32,941  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:05:32,984  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:05:32,985  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:05:33,057  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:06:15,203  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:06:25,344  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:06:25,356  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:06:25,415  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:06:25,416  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:06:54,409  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:07:05,586  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:07:05,596  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:07:05,657  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:07:05,658  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:07:06,807  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:07:06,807  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:07:06,843  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:07:06,846  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:07:06,884  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:07:06,884  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:07:06,962  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:07:50,730  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:08:01,026  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:08:01,038  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:08:01,099  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:08:01,100  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:08:02,198  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:08:02,199  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:08:02,234  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:08:02,235  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:08:02,276  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:08:02,276  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:08:02,351  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:32:31,484  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:32:47,729  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:32:47,739  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:32:47,800  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:32:47,801  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:32:48,934  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:32:48,934  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:32:48,967  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:32:48,968  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:32:49,010  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:32:49,011  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:32:49,095  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:39:08,551  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:39:23,610  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:39:23,622  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:39:23,683  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:39:23,683  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:39:24,803  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:39:24,804  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:39:24,839  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:39:24,840  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:39:24,882  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:39:24,883  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:39:24,965  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 01:43:06,416  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:43:19,336  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:43:19,348  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:43:19,409  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:43:19,410  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:44:17,433  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 01:44:30,509  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 01:44:30,521  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 01:44:30,582  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 01:44:30,582  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 01:44:31,794  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 01:44:31,795  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 01:44:31,830  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 01:44:31,831  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 01:44:31,871  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 01:44:31,872  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 01:44:31,940  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 07:43:37,389  INFO [main] UsersPage:80 - driver waiting
+2023-11-04 07:43:52,246  INFO [main] UsersPage:83 - Click add user page button in menu
+2023-11-04 07:43:52,257  INFO [main] UsersPage:87 - driver waiting
+2023-11-04 07:43:52,315  INFO [main] UsersPage:90 - Click add user button
+2023-11-04 07:43:52,316  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 07:43:53,453  INFO [main] UsersPage:101 - First Name enter as Anne
+2023-11-04 07:43:53,453  INFO [main] UsersPage:105 - driver waiting
+2023-11-04 07:43:53,488  INFO [main] UsersPage:108 - Last Name enter as Cullen
+2023-11-04 07:43:53,488  INFO [main] UsersPage:112 - driver waiting
+2023-11-04 07:43:53,527  INFO [main] UsersPage:115 - Email enter as annecullen@gmail.com
+2023-11-04 07:43:53,527  INFO [main] UsersPage:119 - driver waiting
+2023-11-04 07:43:53,595  INFO [main] UsersPage:123 - Selected Production as the department
+2023-11-04 11:21:05,962  INFO [main] LoginPage:78 - User name enterd as thisuriabeywardana@gmail.com
+2023-11-04 11:21:06,049  INFO [main] HomePage:45 - Validated Logo
+2023-11-04 11:21:35,716  INFO [main] UsersPage:77 - driver waiting
+2023-11-04 11:21:43,570  INFO [main] UsersPage:80 - Click add user page button in menu
+2023-11-04 11:21:43,582  INFO [main] UsersPage:84 - driver waiting
+2023-11-04 11:21:43,643  INFO [main] UsersPage:87 - Click add user button
+2023-11-04 11:21:43,644  INFO [main] UsersPage:91 - driver waiting
+2023-11-04 11:21:44,688  INFO [main] UsersPage:98 - First Name enter as Anne
+2023-11-04 11:21:44,688  INFO [main] UsersPage:102 - driver waiting
+2023-11-04 11:21:44,725  INFO [main] UsersPage:105 - Last Name enter as Cullen
+2023-11-04 11:21:44,725  INFO [main] UsersPage:109 - driver waiting
+2023-11-04 11:21:44,764  INFO [main] UsersPage:112 - Email enter as annecullen@gmail.com
+2023-11-04 11:21:44,765  INFO [main] UsersPage:116 - driver waiting
+2023-11-04 11:21:44,838  INFO [main] UsersPage:120 - Selected Production as the department
+2023-11-04 11:26:47,512  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 11:26:53,880  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 11:26:53,893  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 11:26:53,953  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 11:26:53,954  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 11:26:54,971  INFO [main] UsersPage:99 - First Name enter as Anne
+2023-11-04 11:26:54,972  INFO [main] UsersPage:103 - driver waiting
+2023-11-04 11:26:55,009  INFO [main] UsersPage:106 - Last Name enter as Cullen
+2023-11-04 11:26:55,010  INFO [main] UsersPage:110 - driver waiting
+2023-11-04 11:26:55,061  INFO [main] UsersPage:113 - Email enter as annecullen@gmail.com
+2023-11-04 11:26:55,062  INFO [main] UsersPage:117 - driver waiting
+2023-11-04 11:26:55,140  INFO [main] UsersPage:121 - Selected Production as the department
+2023-11-04 12:00:42,507  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 12:00:50,107  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 12:00:50,118  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 12:00:50,178  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 12:00:50,179  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 12:00:51,163  INFO [main] UsersPage:99 - First Name enter as Anne
+2023-11-04 12:00:51,163  INFO [main] UsersPage:103 - driver waiting
+2023-11-04 12:00:51,200  INFO [main] UsersPage:106 - Last Name enter as Cullen
+2023-11-04 12:00:51,201  INFO [main] UsersPage:110 - driver waiting
+2023-11-04 12:00:51,238  INFO [main] UsersPage:113 - Email enter as annecullen@gmail.com
+2023-11-04 12:00:51,239  INFO [main] UsersPage:117 - driver waiting
+2023-11-04 12:00:51,315  INFO [main] UsersPage:121 - Selected Production as the department
+2023-11-04 12:01:45,033  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 12:01:52,526  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 12:01:52,538  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 12:01:52,597  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 12:01:52,599  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 12:01:53,688  INFO [main] UsersPage:98 - First Name enter as Anne
+2023-11-04 12:01:53,689  INFO [main] UsersPage:102 - driver waiting
+2023-11-04 12:01:53,728  INFO [main] UsersPage:105 - Last Name enter as Cullen
+2023-11-04 12:01:53,728  INFO [main] UsersPage:109 - driver waiting
+2023-11-04 12:01:53,769  INFO [main] UsersPage:112 - Email enter as annecullen@gmail.com
+2023-11-04 12:01:53,769  INFO [main] UsersPage:116 - driver waiting
+2023-11-04 12:01:53,842  INFO [main] UsersPage:120 - Selected Production as the department
+2023-11-04 12:02:19,608  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 12:02:26,886  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 12:02:26,898  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 12:02:26,960  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 12:02:26,960  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 12:02:27,903  INFO [main] UsersPage:98 - First Name enter as Anne
+2023-11-04 12:02:27,904  INFO [main] UsersPage:102 - driver waiting
+2023-11-04 12:02:27,943  INFO [main] UsersPage:105 - Last Name enter as Cullen
+2023-11-04 12:02:27,943  INFO [main] UsersPage:109 - driver waiting
+2023-11-04 12:02:27,984  INFO [main] UsersPage:112 - Email enter as annecullen@gmail.com
+2023-11-04 12:02:27,984  INFO [main] UsersPage:116 - driver waiting
+2023-11-04 12:02:28,059  INFO [main] UsersPage:120 - Selected Production as the department
+2023-11-04 12:52:11,284  INFO [main] UsersPage:78 - driver waiting
+2023-11-04 12:52:18,232  INFO [main] UsersPage:81 - Click add user page button in menu
+2023-11-04 12:52:18,244  INFO [main] UsersPage:85 - driver waiting
+2023-11-04 12:52:18,303  INFO [main] UsersPage:88 - Click add user button
+2023-11-04 12:52:18,304  INFO [main] UsersPage:92 - driver waiting
+2023-11-04 12:52:19,241  INFO [main] UsersPage:98 - First Name enter as Anne
+2023-11-04 12:52:19,242  INFO [main] UsersPage:102 - driver waiting
+2023-11-04 12:52:19,280  INFO [main] UsersPage:105 - Last Name enter as Cullen
+2023-11-04 12:52:19,281  INFO [main] UsersPage:109 - driver waiting
+2023-11-04 12:52:19,318  INFO [main] UsersPage:112 - Email enter as annecullen@gmail.com
+2023-11-04 12:52:19,318  INFO [main] UsersPage:116 - driver waiting
+2023-11-04 12:52:19,391  INFO [main] UsersPage:120 - Selected Production as the department
+2023-11-04 13:42:51,029  INFO [main] UsersPage:70 - driver waiting
+2023-11-04 13:42:58,067  INFO [main] UsersPage:73 - Click add user page button in menu
+2023-11-04 13:42:58,083  INFO [main] UsersPage:77 - driver waiting
+2023-11-04 13:42:58,139  INFO [main] UsersPage:80 - Click add user button
+2023-11-04 13:42:58,140  INFO [main] UsersPage:84 - driver waiting
+2023-11-04 13:42:59,052  INFO [main] UsersPage:90 - First Name enter as Anne
+2023-11-04 13:42:59,052  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 13:42:59,089  INFO [main] UsersPage:97 - Last Name enter as Cullen
+2023-11-04 13:42:59,090  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 13:42:59,128  INFO [main] UsersPage:104 - Email enter as annecullen@gmail.com
+2023-11-04 13:42:59,129  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 13:42:59,186  INFO [main] UsersPage:112 - Selected Production as the department
+2023-11-04 13:45:52,991  INFO [main] UsersPage:70 - driver waiting
+2023-11-04 13:46:00,250  INFO [main] UsersPage:73 - Click add user page button in menu
+2023-11-04 13:46:00,266  INFO [main] UsersPage:77 - driver waiting
+2023-11-04 13:46:00,318  INFO [main] UsersPage:80 - Click add user button
+2023-11-04 13:46:00,319  INFO [main] UsersPage:84 - driver waiting
+2023-11-04 13:46:01,256  INFO [main] UsersPage:90 - First Name enter as Anne
+2023-11-04 13:46:01,256  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 13:46:01,295  INFO [main] UsersPage:97 - Last Name enter as Cullen
+2023-11-04 13:46:01,299  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 13:46:01,342  INFO [main] UsersPage:104 - Email enter as annecullen@gmail.com
+2023-11-04 13:46:01,352  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 13:46:01,435  INFO [main] UsersPage:112 - Selected Production as the department
+2023-11-04 14:13:05,070  INFO [main] UsersPage:70 - driver waiting
+2023-11-04 14:13:39,293  INFO [main] UsersPage:70 - driver waiting
+2023-11-04 14:13:46,147  INFO [main] UsersPage:73 - Click add user page button in menu
+2023-11-04 14:13:46,167  INFO [main] UsersPage:77 - driver waiting
+2023-11-04 14:13:46,230  INFO [main] UsersPage:80 - Click add user button
+2023-11-04 14:13:46,232  INFO [main] UsersPage:84 - driver waiting
+2023-11-04 14:13:47,175  INFO [main] UsersPage:90 - First Name enter as Anne
+2023-11-04 14:13:47,176  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 14:13:47,215  INFO [main] UsersPage:97 - Last Name enter as Cullen
+2023-11-04 14:13:47,216  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 14:13:47,255  INFO [main] UsersPage:104 - Email enter as annecullen@gmail.com
+2023-11-04 14:13:47,256  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 14:13:47,327  INFO [main] UsersPage:112 - Selected Production as the department
+2023-11-04 17:24:18,531  INFO [main] UsersPage:70 - driver waiting
+2023-11-04 17:24:26,826  INFO [main] UsersPage:73 - Click add user page button in menu
+2023-11-04 17:24:26,838  INFO [main] UsersPage:77 - driver waiting
+2023-11-04 17:24:26,896  INFO [main] UsersPage:80 - Click add user button
+2023-11-04 17:24:26,897  INFO [main] UsersPage:84 - driver waiting
+2023-11-04 17:24:27,849  INFO [main] UsersPage:90 - First Name enter as Anne
+2023-11-04 17:24:27,850  INFO [main] UsersPage:94 - driver waiting
+2023-11-04 17:24:27,887  INFO [main] UsersPage:97 - Last Name enter as Cullen
+2023-11-04 17:24:27,888  INFO [main] UsersPage:101 - driver waiting
+2023-11-04 17:24:27,925  INFO [main] UsersPage:104 - Email enter as annecullen@gmail.com
+2023-11-04 17:24:27,926  INFO [main] UsersPage:108 - driver waiting
+2023-11-04 17:24:27,993  INFO [main] UsersPage:112 - Selected Production as the department
